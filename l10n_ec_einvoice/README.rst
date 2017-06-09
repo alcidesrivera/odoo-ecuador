@@ -39,7 +39,10 @@ To use this module, you need to:
 Known issues / Roadmap
 ======================
 
-* ...
+* Firma Electrónica a través de Python para reemplazar el jar de Java.
+* Generación en Lote de Comprobantes Electrónicos.
+* Comprobantes Electrónicos Esquema Off-line.
+* Importación de Facturas Electrónicas Emitidas al Contribuyente a través de su XML.
 
 Bug Tracker
 ===========
