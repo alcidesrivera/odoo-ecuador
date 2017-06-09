@@ -3,11 +3,10 @@
    :alt: License: AGPL-3
 
 ==============
-{module_title}
+Documentos Electrónicos para Ecuador
 ==============
 
-This module extends the functionality of ... to support ...
-and allow you to ...
+Este módulo permite generar Documentos Electrónicos para Ecuador
 
 Installation
 ============
