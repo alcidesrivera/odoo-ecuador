@@ -60,8 +60,8 @@ Images
 Contributors
 ------------
 
-* Firstname Lastname <email.address@example.org>
-* Second Person <second.person@example.org>
+* Cristian Salamea <cristian.salamea@gmail.com>
+* Alcides Rivera VIRTUALSAMI CIA LTDA <alcides.rivera84@gmail.com>
 
 Maintainer
 ----------
